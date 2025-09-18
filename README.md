@@ -4,16 +4,16 @@ This directory contains scenarios for learning the DRY (Don't Repeat Yourself) p
 
 ## Scenarios Overview
 
-- [Scenario 1: Database Queries](./scenario_01_database_queries/scenario.md) - **Unknown**
-- [Scenario 2: Configuration Values](./scenario_02_configuration_values/scenario.md) - **Unknown**
-- [Scenario 3: Error Messages](./scenario_03_error_messages/scenario.md) - **BORDERLINE ⚠️**
-- [Scenario 4: Business Logic](./scenario_04_business_logic/scenario.md) - **Unknown**
-- [Scenario 5: Utility Functions](./scenario_05_utility_functions/scenario.md) - **Unknown**
-- [Scenario 6: UI Components](./scenario_06_ui_components/scenario.md) - **Unknown**
-- [Scenario 7: Data Transformation](./scenario_07_data_transformation/scenario.md) - **Unknown**
-- [Scenario 8: Constants](./scenario_08_constants/scenario.md) - **Unknown**
-- [Scenario 9: Input Sanitization](./scenario_09_input_sanitization/scenario.md) - **Unknown**
-- [Scenario 10: Logging](./scenario_10_logging/scenario.md) - **Unknown**
+- [Scenario 1: Database Queries](./scenario_01_database_queries/scenario.md)
+- [Scenario 2: Configuration Values](./scenario_02_configuration_values/scenario.md)
+- [Scenario 3: Error Messages](./scenario_03_error_messages/scenario.md)
+- [Scenario 4: Business Logic](./scenario_04_business_logic/scenario.md)
+- [Scenario 5: Utility Functions](./scenario_05_utility_functions/scenario.md)
+- [Scenario 6: UI Components](./scenario_06_ui_components/scenario.md)
+- [Scenario 7: Data Transformation](./scenario_07_data_transformation/scenario.md)
+- [Scenario 8: Constants](./scenario_08_constants/scenario.md)
+- [Scenario 9: Input Sanitization](./scenario_09_input_sanitization/scenario.md)
+- [Scenario 10: Logging](./scenario_10_logging/scenario.md)
 
 ## Key Questions to Consider
 

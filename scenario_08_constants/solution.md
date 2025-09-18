@@ -14,7 +14,7 @@ public class EmailService {
 }
 ```
 
-**Answer: ACCEPTABLE DUPLICATION** ✅
+**Answer: ACCEPTABLE DUPLICATION**
 
 **Explanation:** Even though the values are identical, they represent different business concepts. Payment retry logic might change independently of email retry logic based on different business requirements.
 

@@ -20,7 +20,7 @@ function formatUserForEmail(user) {
 }
 ```
 
-**Answer: DRY VIOLATION** ❌
+**Answer: DRY VIOLATION**
 
 **Explanation:** This duplicates the knowledge of how to format a user's full name and normalize email addresses. If the business changes how names are formatted, you'd need to update multiple places.
 

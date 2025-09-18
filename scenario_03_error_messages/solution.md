@@ -12,7 +12,7 @@ if (!email.includes('@')) {
 }
 ```
 
-**Answer: BORDERLINE - Depends on Context** ⚠️
+**Answer: BORDERLINE - Depends on Context**
 
 **Explanation:** This could be acceptable if the messages serve different purposes (UX vs API response). However, if they should always be identical, it's a violation.
 

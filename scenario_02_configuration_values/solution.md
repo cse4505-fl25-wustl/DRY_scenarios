@@ -8,7 +8,7 @@ private static final String SMTP_HOST = "smtp.company.com";
 private static final String SMTP_HOST = "smtp.company.com";
 ```
 
-**Answer: DRY VIOLATION** ❌
+**Answer: DRY VIOLATION**
 
 **Explanation:** This duplicates configuration knowledge. When the SMTP server changes, you'd need to update multiple classes.
 

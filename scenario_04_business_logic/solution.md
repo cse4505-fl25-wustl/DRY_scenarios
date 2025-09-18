@@ -16,7 +16,7 @@ public void validateOrder(Order order) {
 }
 ```
 
-**Answer: DRY VIOLATION** ❌
+**Answer: DRY VIOLATION**
 
 **Explanation:** This duplicates the business rules for what constitutes a valid order. Changes to order validation rules require updates in multiple places.
 

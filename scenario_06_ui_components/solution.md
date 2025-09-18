@@ -12,7 +12,7 @@
 </button>
 ```
 
-**Answer: ACCEPTABLE DUPLICATION** ✅
+**Answer: ACCEPTABLE DUPLICATION**
 
 **Explanation:** This is proper reuse of a design system component. The `btn-primary` class represents shared styling knowledge (good!), but each button serves a different purpose with different handlers.
 

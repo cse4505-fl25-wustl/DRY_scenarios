@@ -8,7 +8,7 @@ logger.info("Processing order: " + orderId + " at " + new Date());
 logger.info("Processing payment: " + paymentId + " at " + new Date());
 ```
 
-**Answer: ACCEPTABLE DUPLICATION** ✅
+**Answer: ACCEPTABLE DUPLICATION**
 
 **Explanation:** These are different log messages for different business events. While the format is similar, they're logging distinct information for different purposes.
 

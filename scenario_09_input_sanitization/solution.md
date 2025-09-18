@@ -8,7 +8,7 @@ $username = trim(strtolower($input['username']));
 $username = trim(strtolower($input['username']));
 ```
 
-**Answer: DRY VIOLATION** ❌
+**Answer: DRY VIOLATION**
 
 **Explanation:** This duplicates the knowledge of how usernames should be sanitized. If the sanitization rules change (e.g., removing special characters), multiple places need updating.
 
