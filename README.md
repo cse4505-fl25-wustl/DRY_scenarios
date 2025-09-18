@@ -1,6 +1,6 @@
 # DRY Principle Scenarios
 
-This directory contains scenarios for learning the DRY (Don't Repeat Yourself) principle.
+This directory contains scenarios for learning the DRY (Don't Repeat Yourself) principle. For each scenario, determine whether it's a violation of the DRY principle or an acceptable duplication. Explain your reasoning.
 
 ## Scenarios Overview
 
